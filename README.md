@@ -1,6 +1,6 @@
 About me
 
-    <a href="skills.md">skills</a>
-    <a href="projects.md">projects</a>
-    <a href="locations.md">locations/contact</a>
-    <a href="https://twitter.com/akrey">@akrey</a>
+  <a href="/apk/ak/blob/master/skills.md">skills</a> *
+  <a href="/apk/ak/blob/master/projects.md">projects</a> *
+  <a href="/apk/ak/blob/master/locations.md">locations/contact</a> *
+  <a href="https://twitter.com/akrey">@akrey</a>
