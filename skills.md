@@ -47,6 +47,10 @@ experience). C & Java API; including IPv6.
 
 (Open)SSL: Basic API usage & key management experience.
 
+Parser design.
+
+Multithreaded program design.
+
 Electrical engineering & electronics knowledge.
 
 ## Tools:
