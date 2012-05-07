@@ -14,17 +14,19 @@ Java: Several years.
 
 SQL: Yes.
 
-Erlang: Some work on production code for one customer
-(despite having no prior knowledge).
+Erlang: Some work on production code for one telco customer
+(passing code reviews, despite having no prior knowledge).
 
 Haskell: Used for a code generator for converting object state
 to/from messages of a proprietary protol (with the intent to
 make that protocol accessible from java).
 
 QBasic: Used to write a compiler for a C-semantic, Pascal-syntax
-language. [Private]
+language. [Private, https://gist.github.com/2626104]
 
 Ruby: Basic scripting, esp. digging through massive logfiles.
+
+Bourne shell: Yes.
 
 Scheme: Not really; I did an interpreter for a similar language.
 
